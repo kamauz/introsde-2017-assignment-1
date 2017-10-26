@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="1">
+        <firstname>Fred</firstname>
+        <lastname>Flinkstone</lastname>
+        <birthdate>1954-02-01</birthdate>
+        <activitypreference>
+            <name>Walking</name>
+            <description>Walking on the bridge</description>
+            <place>Madonna bianca</place>
+            <startdate>2012-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="2">
+        <firstname>Pallo</firstname>
+        <lastname>Pinco</lastname>
+        <birthdate>1984-06-21</birthdate>
+        <activitypreference>
+            <name>Running</name>
+            <description>Running to the park</description>
+            <place>Gocciadoro</place>
+            <startdate>2014-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="3">
+        <firstname>Mark</firstname>
+        <lastname>M</lastname>
+        <birthdate>1995-10-22</birthdate>
+        <activitypreference>
+            <name>Sleeping</name>
+            <description>Sleeping on the bed</description>
+            <place>Sognidoro</place>
+            <startdate>2012-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="4">
+        <firstname>Martina</firstname>
+        <lastname>Flinkstone</lastname>
+        <birthdate>1984-02-01</birthdate>
+        <activitypreference>
+            <name>Walking</name>
+            <description>Walking on the bridge</description>
+            <place>Besenello</place>
+            <startdate>2014-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="5">
+        <firstname>Carlotta</firstname>
+        <lastname>Fango</lastname>
+        <birthdate>1999-06-21</birthdate>
+        <activitypreference>
+            <name>Running</name>
+            <description>Running to the highway</description>
+            <place>A22</place>
+            <startdate>2012-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="6">
+        <firstname>Mark</firstname>
+        <lastname>Matt</lastname>
+        <birthdate>1995-10-22</birthdate>
+        <activitypreference>
+            <name>Sleeping</name>
+            <description>Sleeping on the bed</description>
+            <place>Sognidoro</place>
+            <startdate>2014-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="7">
+        <firstname>Silvia</firstname>
+        <lastname>Simpa</lastname>
+        <birthdate>2000-03-02</birthdate>
+        <activitypreference>
+            <name>Running</name>
+            <description>Running to the metro</description>
+            <place>Milano</place>
+            <startdate>2012-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="8">
+        <firstname>Ariana</firstname>
+        <lastname>Grande</lastname>
+        <birthdate>1993-10-22</birthdate>
+        <activitypreference>
+            <name>Walking</name>
+            <description>Walking under the bridge</description>
+            <place>Firenze</place>
+            <startdate>2014-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="9">
+        <firstname>Sofia</firstname>
+        <lastname>Cacao</lastname>
+        <birthdate>2000-03-02</birthdate>
+        <activitypreference>
+            <name>Running</name>
+            <description>Running to the hills</description>
+            <place>Rovereto</place>
+            <startdate>2014-10-05T15:23:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="10">
+        <firstname>Giacomo</firstname>
+        <lastname>Leopardi</lastname>
+        <birthdate>2005-10-02</birthdate>
+        <activitypreference>
+            <name>Writing</name>
+            <description>Writing on the book</description>
+            <place>Napoli</place>
+            <startdate>2010-10-05T11:21:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="11">
+        <firstname>Leonardo</firstname>
+        <lastname>Da Vinci</lastname>
+        <birthdate>1980-06-12</birthdate>
+        <activitypreference>
+            <name>Painting</name>
+            <description>Painting on the wall</description>
+            <place>Trieste</place>
+            <startdate>2002-10-05T11:21:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="12">
+        <firstname>Federico</firstname>
+        <lastname>Uncino</lastname>
+        <birthdate>1996-11-03</birthdate>
+        <activitypreference>
+            <name>Running</name>
+            <description>Running in the street</description>
+            <place>Roma</place>
+            <startdate>2008-11-15T07:21:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="13">
+        <firstname>Massimo</firstname>
+        <lastname>Kennedy</lastname>
+        <birthdate>1992-05-03</birthdate>
+        <activitypreference>
+            <name>Writing</name>
+            <description>Writing letters</description>
+            <place>Spoleto</place>
+            <startdate>2005-11-15T17:01:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="14">
+        <firstname>Vincenza</firstname>
+        <lastname>Stromboli</lastname>
+        <birthdate>1989-02-15</birthdate>
+        <activitypreference>
+            <name>Reading</name>
+            <description>Reading manifests</description>
+            <place>Perugia</place>
+            <startdate>1996-01-15T11:01:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="15">
+        <firstname>Giulia</firstname>
+        <lastname>San Paolo</lastname>
+        <birthdate>1999-12-15</birthdate>
+        <activitypreference>
+            <name>Driving</name>
+            <description>Driving on the highway</description>
+            <place>Calabria</place>
+            <startdate>1991-01-15T11:01:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="16">
+        <firstname>Paolo</firstname>
+        <lastname>Lorenzi</lastname>
+        <birthdate>1993-11-01</birthdate>
+        <activitypreference>
+            <name>Driving</name>
+            <description>Driving on the highway</description>
+            <place>Reggio Calabria</place>
+            <startdate>1990-01-11T11:01:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="17">
+        <firstname>Fausto</firstname>
+        <lastname>Giorgi</lastname>
+        <birthdate>1997-06-06</birthdate>
+        <activitypreference>
+            <name>Reading</name>
+            <description>Reading newspapers</description>
+            <place>Alghero</place>
+            <startdate>1987-03-12T18:01:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="18">
+        <firstname>Veronica</firstname>
+        <lastname>Bassi</lastname>
+        <birthdate>1988-06-16</birthdate>
+        <activitypreference>
+            <name>Writing</name>
+            <description>Writing newspapers</description>
+            <place>Alghero</place>
+            <startdate>1990-11-12T20:01:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="19">
+        <firstname>Giorgia</firstname>
+        <lastname>Manfredi</lastname>
+        <birthdate>1970-06-05</birthdate>
+        <activitypreference>
+            <name>Driving</name>
+            <description>Driving camions</description>
+            <place>Torino</place>
+            <startdate>1980-07-01T10:30:01.0</startdate>
+        </activitypreference>
+    </person>
+    <person id="20">
+        <firstname>Daniel</firstname>
+        <lastname>Barattoli</lastname>
+        <birthdate>2001-12-12</birthdate>
+        <activitypreference>
+            <name>Playing</name>
+            <description>Playing footbal</description>
+            <place>Termoli</place>
+            <startdate>2017-07-01T10:30:01.0</startdate>
+        </activitypreference>
+    </person>
+</people>
